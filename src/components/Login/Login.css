@@ -1,0 +1,12 @@
+@media screen and (max-width: 460px) {
+    .loginlogo{
+        height: 37px;
+    }
+
+}
+
+@media screen and (min-width: 950px) {
+    .card{
+        width: 700px;
+    }
+}
